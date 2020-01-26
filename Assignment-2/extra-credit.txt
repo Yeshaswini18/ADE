@@ -1,0 +1,5 @@
+Extra Credit/Question 5 Solution
+
+• If the class employee has only integer attribute like an employee salary or ID, then we can swap employees by simply swapping the members of two employees.
+• The parameters are passed by value in Java. When we pass a and b to swap, the function swap() creates a copy of these references. Swapping references in the method being called has no effect in the caller function. Hence the output is not swapped.
+
